@@ -34,16 +34,22 @@
     . Backend (Flask, Fast Api, Django)
     . Data Visualization (Pandas,Matplotlib,Seaborn)
     . Streamlit
-    . GCP ( compute engine VM ,python , jupyternotebook and Vertex AI)
+    . GCP ( compute engine VM ,python , jupyternotebook and Vertex AI, Google Cloud Storage , Google Cloud Bucket , Cloud Function)
     . AWS Databricks
     . Snowflake 
+    . DBT Cloud 
     . Docker and Docker compose
     . DevOPs and CI/CD and Microservices
     . Git, Linux and Shell Scripting
-    . Machine Learning
+    . LLM (GPT-4 Turbo ,Dall-e-3 for image generation)
     . Jira, Click up and Teaching Programming and Computer Science. 
 
 ## Projects :
+
+
+`- Data_Orchestation_With_Airflow (2024)` [Click Here](https://github.com/MuhammadMudassirRaza12345/real-time_crypto_data_pipeline_using_kafka_s3_databricks_snowflake/)
+
+`- PERSONALIZED DIGITAL MATERIAL MAKING APP USING LLM MODEL IN NEXT GPT HACKATHON (2024)` [Click Here](https://github.com/MuhammadMudassirRaza12345/personalized_digital_material_app/blob/main/README.md)
 
 `- CRYPTO DATA ANALYTICS` [Click Here](https://github.com/MuhammadMudassirRaza12345/real-time_crypto_data_pipeline_using_kafka_s3_databricks_snowflake/)
 
