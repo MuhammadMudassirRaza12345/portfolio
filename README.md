@@ -34,7 +34,8 @@
     . Backend (Flask, Fast Api, Django)
     . Data Visualization (Pandas,Matplotlib,Seaborn)
     . Streamlit
-    . GCP ( compute engine VM ,python , jupyternotebook and Vertex AI, Google Cloud Storage , Google Cloud Bucket , Cloud Function)
+    . GCP ( compute engine VM ,python , jupyternotebook and Vertex AI, Google Cloud Storage , Google Cloud Bucket ,
+           Cloud Function,looker Studio , Cloud scheduler,Big Qeury, Cloud scheduler , Query Scheduler)
     . AWS Databricks
     . Snowflake 
     . DBT Cloud 
